@@ -1,0 +1,134 @@
+[
+    {
+        "name": "Authentication",
+        "route": "/auth/login",
+        "icon": "lock",
+        "file": "Auth/Home.vue"
+    },
+    {
+        "name": "Home",
+        "route": "/",
+        "icon": "home",
+        "file": "Home.vue"
+    },
+    {
+        "name": "DashBboard",
+        "route": "/dashboard",
+        "icon": "dashboard",
+        "file": "Dashboard.vue"
+    },
+    {
+        "name": "Employees",
+        "route": "/business/employees",
+        "icon": "people_outline",
+        "file": "bm/Employees.vue"
+    },
+    {
+        "name": "Customer Management",
+        "route": "/customers",
+        "icon": "people",
+        "file": "Customers.vue"
+    },
+    {
+        "name": "Products and services",
+        "route": "/products",
+        "icon": "shopping_cart",
+        "file": "Products.vue"
+    },
+    {
+        "name": "Invoice",
+        "route": "/invoice",
+        "icon": "receipt",
+        "file": "Invoice.vue"
+    },
+    {
+        "name": "Payroll",
+        "route": "/business/payroll",
+        "icon": "favorite",
+        "file": "bm/Payroll.vue"
+    },
+    {
+        "name": "Revenue and Profit",
+        "route": "/business/revenue",
+        "icon": "trending_up",
+        "file": "bm/Revenue.vue"
+    },
+    {
+        "name": "Business Expenses",
+        "route": "/business/expense",
+        "icon": "trending_down",
+        "file": "bm/Expense.vue"
+    },
+    {
+        "name": "Accounting & Reports",
+        "route": "/business/accounting_and_reporting",
+        "icon": "swap_vertical_circle",
+        "file": "bm/accounting_and_reporting/Reports.vue"
+    },
+    {
+        "name": "Business Tax",
+        "route": "/business/tax",
+        "icon": "money_off",
+        "file": "bm/Tax.vue"
+    },
+    {
+        "name": "T4",
+        "route": "/employees/t4",
+        "icon": "arrow_back",
+        "file": "employees/T4.vue"
+    },
+    {
+        "name": "PayStubs",
+        "route": "/employees/payroll",
+        "icon": "money",
+        "file": "employees/Payroll.vue"
+    },
+    {
+        "name": "Employee Tasks",
+        "route": "/projects/tasks",
+        "icon": "swap_calls",
+        "file": "projects/EmployeeTasks.vue"
+    },
+    {
+        "name": "Project Milestones",
+        "route": "/projects/milestones",
+        "icon": "all_inclusive",
+        "file": "projects/ProjectMilestones.vue"
+    },
+    {
+        "name": "Time Tracker",
+        "route": "/projects/track",
+        "icon": "timer",
+        "file": "projects/TimeTracker.vue"
+    },
+    {
+        "name": "Project Cost",
+        "route": "/projects/cost",
+        "icon": "monetization_on",
+        "file": "projects/Cost.vue"
+    },
+    {
+        "name": "Recurring Payments",
+        "route": "/payments/recurring",
+        "icon": "repeat",
+        "file": "payments/RecurringPayments.vue"
+    },
+    {
+        "name": "Code Payment",
+        "route": "/payments/code",
+        "icon": "code",
+        "file": "payments/Code.vue"
+    },
+    {
+        "name": "Estimate",
+        "route": "/payments/estimate",
+        "icon": "assessment",
+        "file": "payments/Estimate.vue"
+    },
+    {
+        "name": "Receipt",
+        "route": "/payments/receipt",
+        "icon": "receipt",
+        "file": "payments/Receipt.vue"
+    }
+]
