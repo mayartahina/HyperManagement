@@ -45,14 +45,14 @@ export default {
   ],
   firebase: {
     config: {
-      apiKey: 'AIzaSyACvKAOO1wCBh3yQBGiF6NZP9iO_0u3hLM',
-      authDomain: 'hypermanagement-dd3c7.firebaseapp.com',
-      databaseURL: 'https://hypermanagement-dd3c7.firebaseio.com',
-      projectId: 'hypermanagement-dd3c7',
-      storageBucket: 'hypermanagement-dd3c7.appspot.com',
-      messagingSenderId: '971967832976',
-      appId: '1:971967832976:web:3c2abfa4efab63e09e0915',
-      measurementId: 'G-KEZG04Q4MX',
+      apiKey: '*******',
+      authDomain: '***********',
+      databaseURL: '*********',
+      projectId: '*********',
+      storageBucket: '*******',
+      messagingSenderId: '*******',
+      appId: '*******',
+      measurementId: '*******',
     },
     services: {
       auth: {
